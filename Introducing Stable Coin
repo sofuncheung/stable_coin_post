@@ -1,0 +1,43 @@
+Algorithmic stablecoins are a type of cryptocurrency that aims to maintain a stable value without the need for collateral. 
+
+Unlike fiat-collateralized stablecoins, which are backed by reserves of fiat currency, or crypto-collateralized stablecoins, 
+which are backed by reserves of other cryptocurrencies, algorithmic stablecoins rely solely on their algorithmic mechanisms 
+to maintain their price stability.
+
+The idea behind algorithmic stablecoins is that they use an elastic supply mechanism to regulate the price of the stablecoin. 
+When demand for the stablecoin increases, the algorithm will automatically increase the supply of the stablecoin, which can help to
+stabilize its price. Conversely, when demand for the stablecoin decreases, the algorithm will decrease the supply of the stablecoin, 
+which can help to prevent the price from dropping too low.
+
+There are several different mechanisms that can be used by algorithmic stablecoins to maintain their price stability. One of the most 
+common mechanisms is known as "rebasing," which adjusts the supply of the stablecoin based on its price relative to a target price. 
+For example, if the price of the stablecoin is above the target price, the algorithm will increase the supply of the stablecoin to bring 
+the price back down to the target price. If the price of the stablecoin is below the target price, the algorithm will decrease the supply 
+of the stablecoin to bring the price back up to the target price.
+
+Another mechanism used by some algorithmic stablecoins is known as "seigniorage shares," which allows holders of the stablecoin to earn
+interest by staking their coins. When demand for the stablecoin is high, the algorithm will issue new coins to the stakers, who can then sell
+these coins on the market to earn a profit. Conversely, when demand for the stablecoin is low, the algorithm will buy back these coins from the 
+stakers to reduce the supply and maintain price stability.
+
+Finally, some algorithmic stablecoins use collateral pools to back their value. These collateral pools can consist of other cryptocurrencies or 
+other assets, such as gold or real estate. The algorithm will then use the value of these assets to regulate the supply of the stablecoin and maintain
+its price stability.
+
+One of the main benefits of algorithmic stablecoins is that they do not require any collateral to maintain their price stability. This makes them 
+more decentralized and flexible than other types of stablecoins, which may require a central authority to manage their reserves. Algorithmic stablecoins 
+can also offer greater transparency and auditability since their algorithmic mechanisms are usually open source and can be independently verified.
+
+Another benefit of algorithmic stablecoins is that they can offer greater stability than other types of stablecoins. Because they rely on their
+algorithmic mechanisms to maintain their price stability, they are less susceptible to fluctuations in the value of their collateral. This can make them
+a more reliable store of value and a more useful medium of exchange.
+
+However, algorithmic stablecoins also carry significant risks. Because they do not have collateral backing their value, they can be susceptible
+to market manipulation, and their prices can be highly volatile. Additionally, their algorithmic mechanisms are often complex and untested, which can 
+lead to unexpected results or failures.
+
+One example of an algorithmic stablecoin that experienced significant issues is Basis, which was launched in 2018 with the goal of creating a
+stablecoin that could maintain a stable value without the need for collateral. Basis used an algorithm that expanded and contracted the supply of 
+the stablecoin to maintain a stable value. However, the project faced regulatory hurdles and ultimately shut down in 2019 due to concerns about 
+the legality of its mechanism.
+
